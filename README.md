@@ -1,3 +1,8 @@
+#### Changes since fork:
+
+- Oct. 2018:
+  - Fixed a bug with the Barcode-Component with. The actual barcode did not scale into the size of the container and an overflow was visible.
+
 
 # react-native-barcode-builder
 
